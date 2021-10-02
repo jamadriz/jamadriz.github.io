@@ -2,6 +2,9 @@
   "https://jamadriz.github.io/testdata/test1/test1.html": [
     "http://img1.2",
     "http://img1.3",
-    "http://img1.1"
+    "http://img1.1",
+    "http://img1.1.1",
+    "http://img1.1.2",
+    "http://img1.1.3",	
   ]
 }
