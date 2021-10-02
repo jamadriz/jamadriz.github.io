@@ -1,0 +1,24 @@
+{
+  "https://jamadriz.github.io/testdata/test2/index1.html": [
+    "http://img1.1",
+    "http://img1.2",
+    "http://img1.3",
+    "http://img1.1.1",
+    "http://img1.1.2",
+    "http://img1.1.3",
+    "http://img1.2.1",
+    "http://img1.2.2",
+    "http://img1.2.3"	
+  ],
+  "https://jamadriz.github.io/testdata/test2/index2.html": [
+    "http://img2.1",
+    "http://img2.2",
+    "http://img2.3",
+    "http://img2.1.1",
+    "http://img2.1.2",
+    "http://img2.1.3",
+    "http://img2.2.1",
+    "http://img2.2.2",
+    "http://img2.2.3"	
+  ]  
+}
